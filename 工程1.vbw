@@ -1,0 +1,10 @@
+jcbutton = 130, 130, 1009, 473, C, 0, 0, 0, 0, C
+Frmmain = 0, 0, 0, 0, C, 26, 26, 905, 369, C
+frmchangewatching = 0, 0, 0, 0, C, 78, 78, 957, 421, C
+frmintro = 0, 0, 0, 0, C, 52, 52, 931, 395, C
+frmAdd3Body = 0, 0, 0, 0, C, 104, 104, 983, 447, C
+calculate = 0, 0, 0, 0, C
+Initialization = 0, 0, 0, 0, C
+Module1 = 0, 0, 0, 0, C
+TwoBodyMode = 0, 0, 0, 0, C, 156, 156, 1035, 499, C
+frmAbout = 0, 0, 0, 0, C, 130, 130, 1009, 473, C
